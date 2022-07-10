@@ -122,3 +122,21 @@
 
 ### 공통된 자격요건과 우대사항
 
+### Back-end 공통사항
+
+- **자격요건**
+  - `Web Framework (Django, Spring Boot, Ktor 등) `
+  - `RDBMS(MySQL 등)DB를 사용해본 사람`
+- **우대사항**
+  - `Kuberneter, Docker 등의 경험`
+
+
+
+### Front-end 공통사항
+
+- 자격요건
+  - `HTML, CSS, JavaScript`
+  - `JQuery/Vue.js/React/Angular.js 등 사용 경험이 있으신 분`
+- 우대사항
+  - `프론트엔드 빌드툴(Webpack, Babel)에 대한 지식 및 활용 경험`
+  - `다양한 팀과의 협업을 위한 커뮤니케이션이 원활하신 분`
